@@ -73,7 +73,7 @@ select {
 }
 
 footer {
-    background-color: #202121 ;
+    background-color: #202121;
     padding: 40px;
     text-align: center;
 }
@@ -81,7 +81,6 @@ footer {
 .picture {
     width: 160px;
     margin-bottom: 80px;
-    border: solid 1px red;
 }
 
 .description {
@@ -90,7 +89,6 @@ footer {
     color: white;
     max-width: 40%;
     margin-left: 40px;
-    border: solid 1px red;
 }
 
 .description p,
@@ -98,4 +96,3 @@ footer {
 h3 {
     margin-bottom: 20px;
 }
-
